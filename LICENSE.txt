@@ -27,7 +27,7 @@ Airline/Airport data - OpenFlights.org
 This stater code includes the databases airports.dat and routes.dat.
 These databases were downloaded from 
 
-http://openflights.org/data.html
+http://openflights.org/data.html   
 
 and are covered under the Open Database License (ODbL) v1.0.  
 The link to the full license is here:
